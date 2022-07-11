@@ -1,2 +1,1 @@
-# TinDog
-Created a project using bootstrap
+TinDog Starting Files

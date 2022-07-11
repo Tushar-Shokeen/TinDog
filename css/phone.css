@@ -1,0 +1,8 @@
+.main-text{
+  text-align: center;
+}
+
+.title-image{
+  transform:rotate(0);
+  position:static;
+}
